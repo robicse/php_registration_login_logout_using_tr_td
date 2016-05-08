@@ -1,0 +1,15 @@
+body {
+	background:#D6F5F5;
+}
+.form_area {
+	float:left;
+	height:400px;
+	width:600px;
+	margin-left:400px;
+	margin-top:10px;
+	/*background-color:red;*/
+}
+.loginBox {
+	text-align:center;
+	border:2 px solid #6633CC;
+}
